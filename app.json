@@ -1,0 +1,10 @@
+{
+  "name": "Google-Drive-Uploader",
+  "description": "All in one bot for torrenting",
+  "repository": "https://github.com/thopDB/Google-Drive-Uploader/",
+  "keywords": ["node", "express", "bot", "torrent", "automation"],
+  "builpacks": [
+    { "url": "heroku/nodejs" },
+    { "url": "https://github.com/jontewks/puppeteer-heroku-buildpack.git" }
+  ]
+}
